@@ -1,0 +1,15 @@
+.patient-main {
+    display: flex;
+}
+
+.form-sections {
+    width: 45%;
+    margin-right: 20px;
+    height: 400px;
+}
+
+.patients-section {
+    width: 45%;
+}
+
+
